@@ -30,9 +30,6 @@ export default function NLSQLPage() {
           <DBConnectForm />
         </div>
 
-        <p className="text-center text-xs text-gray-400 dark:text-gray-600 mt-4">
-          Powered by Groq · LangChain · DRF
-        </p>
       </div>
     </div>
   );
